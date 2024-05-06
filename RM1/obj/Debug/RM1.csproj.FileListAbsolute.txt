@@ -1,0 +1,123 @@
+C:\Users\MSii\source\repos\RM1\RM1\obj\Debug\RM1.csproj.AssemblyReference.cache
+C:\Users\MSii\source\repos\RM1\RM1\obj\Debug\RM1.frmLogin.resources
+C:\Users\MSii\source\repos\RM1\RM1\obj\Debug\RM1.frmMain.resources
+C:\Users\MSii\source\repos\RM1\RM1\obj\Debug\RM1.Model.frmcatAdd.resources
+C:\Users\MSii\source\repos\RM1\RM1\obj\Debug\RM1.Properties.Resources.resources
+C:\Users\MSii\source\repos\RM1\RM1\obj\Debug\RM1.Form1.resources
+C:\Users\MSii\source\repos\RM1\RM1\obj\Debug\RM1.SampleAdd.resources
+C:\Users\MSii\source\repos\RM1\RM1\obj\Debug\RM1.SampleView.resources
+C:\Users\MSii\source\repos\RM1\RM1\obj\Debug\RM1.csproj.GenerateResource.cache
+C:\Users\MSii\source\repos\RM1\RM1\obj\Debug\RM1.csproj.CoreCompileInputs.cache
+C:\Users\MSii\source\repos\RM1\RM1\bin\Debug\RM1.exe.config
+C:\Users\MSii\source\repos\RM1\RM1\bin\Debug\RM1.exe
+C:\Users\MSii\source\repos\RM1\RM1\bin\Debug\RM1.pdb
+C:\Users\MSii\source\repos\RM1\RM1\bin\Debug\Guna.UI2.dll
+C:\Users\MSii\source\repos\RM1\RM1\obj\Debug\RM1.csproj.Up2Date
+C:\Users\MSii\source\repos\RM1\RM1\obj\Debug\RM1.exe
+C:\Users\MSii\source\repos\RM1\RM1\obj\Debug\RM1.pdb
+C:\Users\MSii\source\repos\RM1\RM1\obj\Debug\RM1.View.frmcatView.resources
+C:\Users\MSii\source\repos\RM1\RM1\obj\Debug\RM1.Model.frmproAdd.resources
+C:\Users\MSii\source\repos\RM1\RM1\obj\Debug\RM1.View.frmproView.resources
+C:\Users\MSii\source\repos\RM1\RM1\obj\Debug\RM1.Model.menuPOS.resources
+C:\Users\MSii\source\repos\RM1\RM1\obj\Debug\RM1.Model.ucPro.resources
+C:\Users\MSii\Desktop\RM1\RM1\RM1\bin\Debug\RM1.exe.config
+C:\Users\MSii\Desktop\RM1\RM1\RM1\bin\Debug\RM1.exe
+C:\Users\MSii\Desktop\RM1\RM1\RM1\bin\Debug\RM1.pdb
+C:\Users\MSii\Desktop\RM1\RM1\RM1\bin\Debug\Guna.UI2.dll
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.csproj.AssemblyReference.cache
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.frmLogin.resources
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.frmMain.resources
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.Model.frmcatAdd.resources
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.Model.frmproAdd.resources
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.Model.menuPOS.resources
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.Model.ucPro.resources
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.Properties.Resources.resources
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.Form1.resources
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.SampleAdd.resources
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.SampleView.resources
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.View.frmcatView.resources
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.View.frmproView.resources
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.csproj.GenerateResource.cache
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.csproj.CoreCompileInputs.cache
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.csproj.Up2Date
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.exe
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.pdb
+C:\Users\MSii\Desktop\RM1\RM1\RM1\obj\Debug\RM1.check_out.resources
+E:\C# Programming\RM11\RM1\RM1\bin\Debug\RM1.exe.config
+E:\C# Programming\RM11\RM1\RM1\bin\Debug\RM1.exe
+E:\C# Programming\RM11\RM1\RM1\bin\Debug\RM1.pdb
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.csproj.AssemblyReference.cache
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.check_out.resources
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.exit.resources
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.frmLogin.resources
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.frmMain.resources
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.Model.frmcatAdd.resources
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.Model.frmproAdd.resources
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.Model.menuPOS.resources
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.Model.ucPro.resources
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.Properties.Resources.resources
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.Form1.resources
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.SampleAdd.resources
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.SampleView.resources
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.View.frmcatView.resources
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.View.frmproView.resources
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.csproj.GenerateResource.cache
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.csproj.CoreCompileInputs.cache
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.csproj.Up2Date
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.exe
+E:\C# Programming\RM11\RM1\RM1\obj\Debug\RM1.pdb
+C:\Users\MSii\Downloads\RM1\RM1\bin\Debug\RM1.exe.config
+C:\Users\MSii\Downloads\RM1\RM1\bin\Debug\RM1.exe
+C:\Users\MSii\Downloads\RM1\RM1\bin\Debug\RM1.pdb
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.csproj.AssemblyReference.cache
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.check_out.resources
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.exit.resources
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.frmLogin.resources
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.frmMain.resources
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.Model.frmcatAdd.resources
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.Model.frmproAdd.resources
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.Model.menuPOS.resources
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.Model.ucPro.resources
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.Properties.Resources.resources
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.Form1.resources
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.SampleAdd.resources
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.SampleView.resources
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.View.frmcatView.resources
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.View.frmproView.resources
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.csproj.GenerateResource.cache
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.csproj.CoreCompileInputs.cache
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.csproj.Up2Date
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.exe
+C:\Users\MSii\Downloads\RM1\RM1\obj\Debug\RM1.pdb
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.csproj.AssemblyReference.cache
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.check_out.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.exit.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.FAQ.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.frmLogin.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.frmMain.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.Model.frmcatAdd.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.Model.frmproAdd.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.Model.frmWelcome.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.Model.menuPOS.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.Model.ucPro.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.Properties.Resources.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.SampleAdd.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.SampleView.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.View.frmcatView.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.View.frmproView.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.csproj.GenerateResource.cache
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.csproj.CoreCompileInputs.cache
+E:\C# Programming\RM111\RM1\RM1\bin\Debug\RM1.exe.config
+E:\C# Programming\RM111\RM1\RM1\bin\Debug\RM1.exe
+E:\C# Programming\RM111\RM1\RM1\bin\Debug\RM1.pdb
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.csproj.Up2Date
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.exe
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.pdb
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.frmOpen.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.View.frmNeedHelp.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.View.frmMenuItems.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.View.frmCancelOrder.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.View.frmInfo.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.View.frmSeInfo.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.View.frmFeedback.resources
+E:\C# Programming\RM111\RM1\RM1\obj\Debug\RM1.frmCashPayment.resources
